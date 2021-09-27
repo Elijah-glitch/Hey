@@ -1,0 +1,11 @@
+django
+django-jsonfield
+django-constance[database]
+django_countries
+markdown
+requests
+pygal
+pytz
+python-bitcoinlib
+stripe
+
